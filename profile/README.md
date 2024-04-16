@@ -1,6 +1,6 @@
 # Welcome to La Grandee International College Projects Repository
 
-![La Grandee International College Logo](https://lagrandee.edu.np/wp-content/uploads/2018/01/LGIC-Logo-e1488900891494.png)
+![La Grandee International College Logo](https://avatars.githubusercontent.com/u/131573803?s=200&v=4)
 
 This repository serves as a central hub for all the projects developed by La Grandee International College students. Here, you can find a diverse range of projects covering various disciplines and technologies.
 
