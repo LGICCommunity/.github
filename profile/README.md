@@ -8,17 +8,6 @@ This repository serves as a central hub for all the projects developed by La Gra
 
 - Official College Website: [La Grandee International College](https://lagrandee.edu.np)
 
-## 📚 Android Development Notes
-
-If you're looking for Android development notes to enhance your skills, we have a dedicated website where you can access comprehensive notes on Android development:
-
-- Android Development Notes: [Notes-Android](https://notes-android.dds.com.np)
-
-## 📂 Project Reports
-
-To explore the project reports submitted by our students, visit the following link:
-
-- Project Reports: [LGIC Project Reports](https://lgic.sapkotasunil.com.np/report)
 
 ---
 
