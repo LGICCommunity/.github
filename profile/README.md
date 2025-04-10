@@ -1,4 +1,4 @@
-# Welcome to La Grandee International College Projects Repository
+# Welcome to La Grandee International College Community Repository
 
 ![La Grandee International College Logo](https://avatars.githubusercontent.com/u/131573803?s=200&v=4)
 
